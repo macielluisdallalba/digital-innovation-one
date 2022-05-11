@@ -1,5 +1,5 @@
 # Digital Innovation One - DIO
-Repositório utilizado para as atividades desenvolvidas aravés da DIO.
+Repositório utilizado para as atividades desenvolvidas através da DIO.
 
 ## Links
 
